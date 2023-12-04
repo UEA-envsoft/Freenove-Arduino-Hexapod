@@ -12,8 +12,8 @@ Assembly instructions are here: https://www.instructables.com/preview/E0JWP2NLOE
 
 The code makes use of the additional control buttons on the app:  
 20 is happy expression  
-21 is angry expression
-15 is suprised expression
-2 is sad expression
-14 is obj avoid on
-3 is obj avoid off - this can be a hit or miss, so blocking the ultrasonic sensor with your finger will also cancel object avoidance after a few moments.
+21 is angry expression  
+15 is suprised expression  
+2 is sad expression  
+14 is obj avoid on  
+3 is obj avoid off - this can be a hit or miss, so blocking the ultrasonic sensor with your finger will also cancel object avoidance after a few moments.  
