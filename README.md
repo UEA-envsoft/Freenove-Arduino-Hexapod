@@ -9,3 +9,11 @@ Note this model uses the US-100 Ultrasonic Distance Sensor (using serial comms) 
 The 3d files for the head are here: https://www.printables.com/model/654812-head-for-the-freenove-hexapod
 
 Assembly instructions are here: https://www.instructables.com/preview/E0JWP2NLOEC9R8W/
+
+The code makes use of the additional control buttons on the app:  
+20 is happy expression  
+21 is angry expression
+15 is suprised expression
+2 is sad expression
+14 is obj avoid on
+3 is obj avoid off - this can be a hit or miss, so blocking the ultrasonic sensor with your finger will also cancel object avoidance after a few moments.
